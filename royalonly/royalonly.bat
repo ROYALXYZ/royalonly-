@@ -173,17 +173,17 @@ if "%aboutChoose%"=="4" goto menu
 
 :bukaPii
 cls
-echo Hi Namaku Rangga Pasha Cucu Wibisono
-echo Umurku 17 Tahun. Dan aku Beralamat Di Gang Janur Kuning Pandeyan, Umbulharjo.
-echo Aku Lahir Pada 21 Oktober 2006
+echo 
+echo
+echo 
 echo.
 pause
 goto aboutMe
 
 :bukaSchool
 cls
-echo Aku TK Di TK Aba Pandeyan I, lalu SD Di SDN Golo, dan SMP Di SMP MUHAMMADIYAH 9.
-echo Sekarang Aku SMK DI SMKN 3 Yogyakarta.
+echo 
+echo 
 echo.
 pause
 goto aboutMe
